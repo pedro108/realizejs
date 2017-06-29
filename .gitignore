@@ -22,7 +22,3 @@ Desktop.ini
 
 # Windows shortcuts
 *.lnk
-
-# Transpiled bundle to publish in NPM
-build
-dist
